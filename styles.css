@@ -2,9 +2,10 @@
 .book-library{
     width: auto;
     background-color: #ffffff;
+	border:1px solid ffffff; 
 }
 
-h2{
+h1{
     padding: 20px;
     background-color: #f8f8f8;
 }
@@ -30,7 +31,8 @@ h2{
     color: #777777;
 }
 
-button{
+div.price-block{
+    text-align: center;
     width: 100%;
     padding: 10px;
     color: white;
